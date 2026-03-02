@@ -1,0 +1,45 @@
+# =============================================================================
+# OSF PREREGISTRATION DISCLOSURE: EXACT DEPENDENCY PINNING
+# =============================================================================
+# Protocol Reference: 
+#   - Section 4.7 (Computational Reproducibility)
+#
+# 1. PROTOCOL ALIGNMENT (Out-of-Core & Statistical Stack):
+# Section 4.7 explicitly mandates the versions for the primary computational 
+# and statistical engines to guarantee exact reproducibility of the high-frequency 
+# matrix operations and stationary block bootstrapping. 
+# 
+# This file mathematically enforces those constraints, hard-pinning:
+#   - Polars (v1.32.3)
+#   - DuckDB (v1.4.4)
+#   - Arch (v8.0.0)
+#
+# Python Environment utilized for PoC execution: 3.14.0
+#
+# 2. ENGINEERING ARTIFACT (Dependency Drift Prevention):
+# To protect the out-of-sample Proof-of-Concept (PoC) from future dependency 
+# drift, all secondary extraction, networking, and scientific libraries 
+# (e.g., databento, scipy, numpy, minio) are strictly pinned to their exact 
+# tested versions. Reviewers building the Docker environment will execute the 
+# identical byte-code paths utilized during the preregistration freeze.
+# =============================================================================
+
+# --- AIRFLOW PROVIDERS ---
+apache-airflow-providers-amazon==9.12.0
+
+# --- THE TWIN STACK CORE (Physics Engine) ---
+polars==1.32.3
+duckdb==1.4.4
+scipy==1.16.3
+numpy==2.3.5
+pyarrow==23.0.0
+
+# --- PROTOCOL SIMULATION DEPENDENCIES ---
+arch==8.0.0
+databento==0.69.0
+databento-dbn==0.46.0
+minio==7.2.20
+s3fs==2025.12.0
+fredapi==0.5.2
+tenacity==9.0.0
+scikit-learn==1.8.0

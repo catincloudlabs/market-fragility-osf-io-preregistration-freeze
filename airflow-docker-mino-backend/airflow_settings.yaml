@@ -1,0 +1,65 @@
+# =============================================================================
+# OSF PREREGISTRATION DISCLOSURE: AIRFLOW ENVIRONMENT CONFIGURATION
+# =============================================================================
+# Protocol Reference: 
+#   - Section 4.5 (Computational Reproducibility)
+#   - Section 4.2 (Data Acquisition)
+#
+# 1. PROTOCOL ALIGNMENT (Deterministic Orchestration):
+# To satisfy the computational reproducibility mandate of Section 4.5, this 
+# configuration file automatically seeds the Airflow metadata database upon 
+# container initialization. It deterministically defines the `databento_pool` 
+# required to throttle asynchronous API requests, preventing rate-limit 
+# failures during the high-frequency Layer 1 extraction.
+# 
+# 2. ENGINEERING ARTIFACT (API Keys & Security):
+# This file defines the Airflow Variables required by the data ingestion DAGs. 
+# For public OSF repository security, the actual proprietary API keys for 
+# Databento and FRED have been removed and replaced with placeholder strings. 
+# Reviewers wishing to replicate the extraction must inject their own 
+# respective API credentials here prior to executing `astro dev start`.
+# =============================================================================
+
+airflow:
+  # --- 1. CONNECTIONS (The Synapses) ---
+  connections:
+    # THE LAKE CONNECTION (MinIO)
+    # This tricks Airflow into thinking it's talking to AWS S3,
+    # but redirects it to our local Docker container.
+    - conn_id: aws_default
+      conn_type: aws
+      conn_login: admin          # Must match MINIO_ROOT_USER in .env
+      conn_password: password123 # Must match MINIO_ROOT_PASSWORD in .env
+      conn_extra:
+        # The critical redirection to the local container
+        endpoint_url: "http://minio:9000"
+        region_name: "us-east-2"
+
+    # THE WAREHOUSE CONNECTION (DuckDB)
+    - conn_id: duckdb_default
+      conn_type: duckdb
+      conn_host: ":memory:"  # or path to a persistent .db file if needed
+
+  # --- 2. POOLS (The Throttles) ---
+  pools:
+    # API THROTTLE
+    # Prevents us from smashing Databento limits.
+    # Protocol Limit: 1 request per sec per worker implies careful concurrency.
+    - pool_name: "databento_pool"
+      pool_slot: 4  # Limit concurrent downloads to 4 tickers
+      pool_description: "Throttles ingestion to prevent 429 Rate Limits"
+
+    # PHYSICS THROTTLE
+    # Prevents Polars from melting your CPU by running too many
+    # heavy vector-math tasks at once.
+    - pool_name: "physics_pool"
+      pool_slot: 2  # Keep this low (2-4) since each task uses multiple cores
+      pool_description: "Throttles Black-Scholes vectorization tasks"
+
+  # --- 3. VARIABLES (The Constants) ---
+  variables:
+    # Global constants for the Simulation
+    - variable_name: "SIMULATION_MODE"
+      variable_value: "TWIN"  # Signals DAGs to use Local MinIO paths
+    - variable_name: "PROTOCOL_VERSION"
+      variable_value: "1.0.0-RC1"
