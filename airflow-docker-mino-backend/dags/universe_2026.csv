@@ -1,0 +1,503 @@
+symbol,name,sector,exchange
+A,Agilent Technologies Inc Common,Health Care,NYSE
+AAPL,Apple Inc Common,Information Technology,Nasdaq
+ABBV,AbbVie Inc Common,Health Care,NYSE
+ABNB,Airbnb Inc Class A Common,Consumer Discretionary,Nasdaq
+ABT,Abbott Laboratories Common,Health Care,NYSE
+ACGL,Arch Capital Group Ltd Common,Financials,Nasdaq
+ACN,Accenture Plc Class A Common,Information Technology,NYSE
+ADBE,Adobe Inc Common,Information Technology,Nasdaq
+ADI,Analog Devices Inc Common,Information Technology,Nasdaq
+ADM,Archer-Daniels-Midland Co Common,Consumer Staples,NYSE
+ADP,Automatic Data Processing Inc Common,Industrials,Nasdaq
+ADSK,Autodesk Inc Common,Information Technology,Nasdaq
+AEE,Ameren Corp Common,Utilities,NYSE
+AEP,American Electric Power Company Inc Common,Utilities,Nasdaq
+AES,AES Corp Common,Utilities,NYSE
+AFL,Aflac Inc Common,Financials,NYSE
+AIG,American International Group Inc Common,Financials,NYSE
+AIZ,Assurant Inc Common,Financials,NYSE
+AJG,Arthur J. Gallagher & Co Common,Financials,NYSE
+AKAM,Akamai Technologies Inc Common,Information Technology,Nasdaq
+ALB,Albemarle Corp Common,Materials,NYSE
+ALGN,Align Technology Inc Common,Health Care,Nasdaq
+ALL,Allstate Corp Common,Financials,NYSE
+ALLE,Allegion Public Ltd Co Common,Industrials,NYSE
+AMAT,Applied Materials Inc Common,Information Technology,Nasdaq
+AMCR,Amcor PLC Common,Materials,NYSE
+AMD,Advanced Micro Devices Inc Common,Information Technology,Nasdaq
+AME,AMETEK Inc Common,Industrials,NYSE
+AMGN,Amgen Inc Common,Health Care,Nasdaq
+AMP,Ameriprise Financial Inc Common,Financials,NYSE
+AMT,American Tower Corp Common,Real Estate,NYSE
+AMZN,Amazon.com Inc Common,Consumer Discretionary,Nasdaq
+ANET,Arista Networks Inc Common,Information Technology,NYSE
+AON,Aon Plc Class A Common,Financials,NYSE
+AOS,A. O. Smith Corp Common,Industrials,NYSE
+APA,APA Corp Common,Energy,Nasdaq
+APD,Air Products and Chemicals Inc Common,Materials,NYSE
+APH,Amphenol Corporation Class A Common,Information Technology,NYSE
+APO,Apollo Global Management Inc Common,Financials,NYSE
+APP,AppLovin Corp Class A Common,Information Technology,Nasdaq
+APTV,Aptiv PLC Common,Consumer Discretionary,NYSE
+ARE,Alexandria Real Estate Equities Inc Common,Real Estate,NYSE
+ARES,Ares Management Corp Common,Financials,NYSE
+ATO,Atmos Energy Corp Common,Utilities,NYSE
+AVB,AvalonBay Communities Inc Common,Real Estate,NYSE
+AVGO,Broadcom Inc Common,Information Technology,Nasdaq
+AVY,Avery Dennison Corp Common,Materials,NYSE
+AWK,American Water Works Co Inc Common,Utilities,NYSE
+AXON,Axon Enterprise Inc Common,Industrials,Nasdaq
+AXP,American Express Co Common,Financials,NYSE
+AZO,AutoZone Inc Common,Consumer Discretionary,NYSE
+BA,Boeing Co Common,Industrials,NYSE
+BAC,Bank of America Corp Common,Financials,NYSE
+BALL,Ball Corp Common,Materials,NYSE
+BAX,Baxter International Inc Common,Health Care,NYSE
+BBY,Best Buy Co Inc Common,Consumer Discretionary,NYSE
+BDX,Becton Dickinson and Co Common,Health Care,NYSE
+BEN,Franklin Resources Inc Common,Financials,NYSE
+BF.B,Brown-Forman Corporation Class B Common,Consumer Staples,NYSE
+BG,Bunge Global SA Common,Consumer Staples,NYSE
+BIIB,Biogen Inc Common,Health Care,Nasdaq
+BK,Bank of New York Mellon Corp Common,Financials,NYSE
+BKNG,Booking Holdings Inc Common,Consumer Discretionary,Nasdaq
+BKR,Baker Hughes Company Class A Common,Energy,Nasdaq
+BLDR,Builders FirstSource Inc Common,Industrials,NYSE
+BLK,BlackRock Inc Common,Financials,NYSE
+BMY,Bristol-Myers Squibb Co Common,Health Care,NYSE
+BR,Broadridge Financial Solutions Inc Common,Industrials,NYSE
+BRK.B,Berkshire Hathaway Inc Class B Common,Financials,NYSE
+BRO,Brown & Brown Inc Common,Financials,NYSE
+BSX,Boston Scientific Corp Common,Health Care,NYSE
+BX,Blackstone Inc Common,Financials,NYSE
+BXP,BXP Inc Common,Real Estate,NYSE
+C,Citigroup Inc Common,Financials,NYSE
+CAG,Conagra Brands Inc Common,Consumer Staples,NYSE
+CAH,Cardinal Health Inc Common,Health Care,NYSE
+CARR,Carrier Global Corp Common,Industrials,NYSE
+CAT,Caterpillar Inc Common,Industrials,NYSE
+CB,Chubb Ltd Common,Financials,NYSE
+CBOE,Cboe Global Markets Inc Common,Financials,Cboe BZX
+CBRE,CBRE Group Inc Class A Common,Real Estate,NYSE
+CCI,Crown Castle Inc Common,Real Estate,NYSE
+CCL,Carnival Corp Common,Consumer Discretionary,NYSE
+CDNS,Cadence Design Systems Inc Common,Information Technology,Nasdaq
+CDW,CDW Corp Common,Information Technology,Nasdaq
+CEG,Constellation Energy Corp Common,Utilities,Nasdaq
+CF,CF Industries Holdings Inc Common,Materials,NYSE
+CFG,Citizens Financial Group Inc Common,Financials,NYSE
+CHD,Church & Dwight Co Inc Common,Consumer Staples,NYSE
+CHRW,C.H. Robinson Worldwide Inc Common,Industrials,Nasdaq
+CHTR,Charter Communications Inc Class A Common,Communication Services,Nasdaq
+CI,Cigna Group Common,Health Care,NYSE
+CINF,Cincinnati Financial Corp Common,Financials,Nasdaq
+CL,Colgate-Palmolive Co Common,Consumer Staples,NYSE
+CLX,Clorox Co Common,Consumer Staples,NYSE
+CMCSA,Comcast Corporation Class A Common,Communication Services,Nasdaq
+CME,CME Group Inc Class A Common,Financials,Nasdaq
+CMG,Chipotle Mexican Grill Inc Common,Consumer Discretionary,NYSE
+CMI,Cummins Inc Common,Industrials,NYSE
+CMS,CMS Energy Corp Common,Utilities,NYSE
+CNC,Centene Corp Common,Health Care,NYSE
+CNP,CenterPoint Energy Inc Common,Utilities,NYSE
+COF,Capital One Financial Corp Common,Financials,NYSE
+COIN,Coinbase Global Inc Class A Common,Financials,Nasdaq
+COO,Cooper Companies Inc Common,Health Care,Nasdaq
+COP,ConocoPhillips Common,Energy,NYSE
+COR,Cencora Inc Common,Health Care,NYSE
+COST,Costco Wholesale Corp Common,Consumer Staples,Nasdaq
+CPAY,Corpay Inc Common,Financials,NYSE
+CPB,Campbell's Co Common,Consumer Staples,Nasdaq
+CPRT,Copart Inc Common,Industrials,Nasdaq
+CPT,Camden Property Trust Common,Real Estate,NYSE
+CRH,CRH plc Common,Materials,NYSE
+CRL,Charles River Laboratories International Inc Common,Health Care,NYSE
+CRM,Salesforce Inc Common,Information Technology,NYSE
+CRWD,CrowdStrike Holdings Inc Class A Common,Information Technology,Nasdaq
+CSCO,Cisco Systems Inc Common,Information Technology,Nasdaq
+CSGP,CoStar Group Inc Common,Real Estate,Nasdaq
+CSX,CSX Corp Common,Industrials,Nasdaq
+CTAS,Cintas Corp Common,Industrials,Nasdaq
+CTRA,Coterra Energy Inc Common,Energy,NYSE
+CTSH,Cognizant Technology Solutions Corporation Class A Common,Information Technology,Nasdaq
+CTVA,Corteva Inc Common,Materials,NYSE
+CVNA,Carvana Co Class A Common,Consumer Discretionary,NYSE
+CVS,CVS Health Corp Common,Health Care,NYSE
+CVX,Chevron Corp Common,Energy,NYSE
+D,Dominion Energy Inc Common,Utilities,NYSE
+DAL,Delta Air Lines Inc Common,Industrials,NYSE
+DASH,DoorDash Inc Class A Common,Consumer Discretionary,Nasdaq
+DD,DuPont de Nemours Inc Common,Materials,NYSE
+DDOG,Datadog Inc Class A Common,Information Technology,Nasdaq
+DE,Deere & Co Common,Industrials,NYSE
+DECK,Deckers Outdoor Corp Common,Consumer Discretionary,NYSE
+DELL,Dell Technologies Inc Class C Common,Information Technology,NYSE
+DG,Dollar General Corp Common,Consumer Staples,NYSE
+DGX,Quest Diagnostics Inc Common,Health Care,NYSE
+DHI,D.R. Horton Inc Common,Consumer Discretionary,NYSE
+DHR,Danaher Corp Common,Health Care,NYSE
+DIS,Walt Disney Co Common,Communication Services,NYSE
+DLR,Digital Realty Trust Inc Common,Real Estate,NYSE
+DLTR,Dollar Tree Inc Common,Consumer Staples,Nasdaq
+DOC,Healthpeak Properties Inc Common,Real Estate,NYSE
+DOV,Dover Corp Common,Industrials,NYSE
+DOW,Dow Inc Common,Materials,NYSE
+DPZ,Domino's Pizza Inc Common,Consumer Discretionary,Nasdaq
+DRI,Darden Restaurants Inc Common,Consumer Discretionary,NYSE
+DTE,DTE Energy Co Common,Utilities,NYSE
+DUK,Duke Energy Corp Common,Utilities,NYSE
+DVA,DaVita Inc Common,Health Care,NYSE
+DVN,Devon Energy Corp Common,Energy,NYSE
+DXCM,DexCom Inc Common,Health Care,Nasdaq
+EA,Electronic Arts Inc Common,Communication Services,Nasdaq
+EBAY,eBay Inc Common,Consumer Discretionary,Nasdaq
+ECL,Ecolab Inc Common,Materials,NYSE
+ED,Consolidated Edison Inc Common,Utilities,NYSE
+EFX,Equifax Inc Common,Industrials,NYSE
+EG,Everest Group Ltd Common,Financials,NYSE
+EIX,Edison International Common,Utilities,NYSE
+EL,Estee Lauder Companies Inc Class A Common,Consumer Staples,NYSE
+ELV,Elevance Health Inc Common,Health Care,NYSE
+EME,EMCOR Group Inc Common,Industrials,NYSE
+EMR,Emerson Electric Co Common,Industrials,NYSE
+EOG,EOG Resources Inc Common,Energy,NYSE
+EPAM,EPAM Systems Inc Common,Information Technology,NYSE
+EQIX,Equinix Inc Common,Real Estate,Nasdaq
+EQR,Equity Residential Common,Real Estate,NYSE
+EQT,EQT Corp Common,Energy,NYSE
+ERIE,Erie Indemnity Company Class A Common,Financials,Nasdaq
+ES,Eversource Energy Common,Utilities,NYSE
+ESS,Essex Property Trust Inc Common,Real Estate,NYSE
+ETN,Eaton Corp Plc Common,Industrials,NYSE
+ETR,Entergy Corp Common,Utilities,NYSE
+EVRG,Evergy Inc Common,Utilities,Nasdaq
+EW,Edwards Lifesciences Corp Common,Health Care,NYSE
+EXC,Exelon Corp Common,Utilities,Nasdaq
+EXE,Expand Energy Corp Common,Energy,Nasdaq
+EXPD,Expeditors International of Washington Inc Common,Industrials,NYSE
+EXPE,Expedia Group Inc Common,Consumer Discretionary,Nasdaq
+EXR,Extra Space Storage Inc Common,Real Estate,NYSE
+F,Ford Motor Co Common,Consumer Discretionary,NYSE
+FANG,Diamondback Energy Inc Common,Energy,Nasdaq
+FAST,Fastenal Co Common,Industrials,Nasdaq
+FCX,Freeport-McMoRan Inc Common,Materials,NYSE
+FDS,FactSet Research Systems Inc Common,Financials,NYSE
+FDX,FedEx Corp Common,Industrials,NYSE
+FE,FirstEnergy Corp Common,Utilities,NYSE
+FFIV,F5 Inc Common,Information Technology,Nasdaq
+FICO,Fair Isaac Corp Common,Information Technology,NYSE
+FIS,Fidelity National Information Services Inc Common,Financials,NYSE
+FISV,Fiserv Inc Common,Financials,Nasdaq
+FITB,Fifth Third Bancorp Common,Financials,Nasdaq
+FIX,Comfort Systems USA Inc Common,Industrials,NYSE
+FOX,Fox Corporation Class B Common,Communication Services,Nasdaq
+FOXA,Fox Corporation Class A Common,Communication Services,Nasdaq
+FRT,Federal Realty Investment Trust Common,Real Estate,NYSE
+FSLR,First Solar Inc Common,Information Technology,Nasdaq
+FTNT,Fortinet Inc Common,Information Technology,Nasdaq
+FTV,Fortive Corp Common,Industrials,NYSE
+GD,General Dynamics Corp Common,Industrials,NYSE
+GDDY,GoDaddy Inc Class A Common,Information Technology,NYSE
+GE,GE Aerospace Common,Industrials,NYSE
+GEHC,GE Healthcare Technologies Inc Common,Health Care,Nasdaq
+GEN,Gen Digital Inc Common,Information Technology,Nasdaq
+GEV,GE Vernova Inc Common,Industrials,NYSE
+GILD,Gilead Sciences Inc Common,Health Care,Nasdaq
+GIS,General Mills Inc Common,Consumer Staples,NYSE
+GL,Globe Life Inc Common,Financials,NYSE
+GLW,Corning Inc Common,Information Technology,NYSE
+GM,General Motors Co Common,Consumer Discretionary,NYSE
+GNRC,Generac Holdings Inc Common,Industrials,NYSE
+GOOG,Alphabet Inc Class C Common,Communication Services,Nasdaq
+GOOGL,Alphabet Inc Class A Common,Communication Services,Nasdaq
+GPC,Genuine Parts Co Common,Consumer Discretionary,NYSE
+GPN,Global Payments Inc Common,Financials,NYSE
+GRMN,Garmin Ltd Common,Consumer Discretionary,NYSE
+GS,Goldman Sachs Group Inc Common,Financials,NYSE
+GWW,W.W. Grainger Inc Common,Industrials,NYSE
+HAL,Halliburton Co Common,Energy,NYSE
+HAS,Hasbro Inc Common,Consumer Discretionary,Nasdaq
+HBAN,Huntington Bancshares Inc Common,Financials,Nasdaq
+HCA,HCA Healthcare Inc Common,Health Care,NYSE
+HD,Home Depot Inc Common,Consumer Discretionary,NYSE
+HIG,Hartford Insurance Group Inc Common,Financials,NYSE
+HII,Huntington Ingalls Industries Inc Common,Industrials,NYSE
+HLT,Hilton Worldwide Holdings Inc Common,Consumer Discretionary,NYSE
+HOLX,Hologic Inc Common,Health Care,Nasdaq
+HON,Honeywell International Inc Common,Industrials,Nasdaq
+HOOD,Robinhood Markets Inc Class A Common,Financials,Nasdaq
+HPE,Hewlett Packard Enterprise Co Common,Information Technology,NYSE
+HPQ,HP Inc Common,Information Technology,NYSE
+HRL,Hormel Foods Corp Common,Consumer Staples,NYSE
+HSIC,Henry Schein Inc Common,Health Care,Nasdaq
+HST,Host Hotels & Resorts Inc Common,Real Estate,Nasdaq
+HSY,Hershey Co Common,Consumer Staples,NYSE
+HUBB,Hubbell Inc Common,Industrials,NYSE
+HUM,Humana Inc Common,Health Care,NYSE
+HWM,Howmet Aerospace Inc Common,Industrials,NYSE
+IBKR,Interactive Brokers Group Inc Class A Common,Financials,Nasdaq
+IBM,International Business Machines Corp Common,Information Technology,NYSE
+ICE,Intercontinental Exchange Inc Common,Financials,NYSE
+IDXX,IDEXX Laboratories Inc Common,Health Care,Nasdaq
+IEX,IDEX Corp Common,Industrials,NYSE
+IFF,International Flavors & Fragrances Inc Common,Materials,NYSE
+INCY,Incyte Corp Common,Health Care,Nasdaq
+INTC,Intel Corp Common,Information Technology,Nasdaq
+INTU,Intuit Inc Common,Information Technology,Nasdaq
+INVH,Invitation Homes Inc Common,Real Estate,NYSE
+IP,International Paper Co Common,Materials,NYSE
+IQV,IQVIA Holdings Inc Common,Health Care,NYSE
+IR,Ingersoll Rand Inc Common,Industrials,NYSE
+IRM,Iron Mountain Inc Common,Real Estate,NYSE
+ISRG,Intuitive Surgical Inc Common,Health Care,Nasdaq
+IT,Gartner Inc Common,Information Technology,NYSE
+ITW,Illinois Tool Works Inc Common,Industrials,NYSE
+IVZ,Invesco Ltd Common,Financials,NYSE
+J,Jacobs Solutions Inc Common,Industrials,NYSE
+JBHT,J.B. Hunt Transport Services Inc Common,Industrials,Nasdaq
+JBL,Jabil Inc Common,Information Technology,NYSE
+JCI,Johnson Controls International plc Common,Industrials,NYSE
+JKHY,Jack Henry & Associates Inc Common,Financials,Nasdaq
+JNJ,Johnson & Johnson Common,Health Care,NYSE
+JPM,JPMorgan Chase & Co Common,Financials,NYSE
+KDP,Keurig Dr Pepper Inc Common,Consumer Staples,Nasdaq
+KEY,KeyCorp Common,Financials,NYSE
+KEYS,Keysight Technologies Inc Common,Information Technology,NYSE
+KHC,Kraft Heinz Co Common,Consumer Staples,Nasdaq
+KIM,Kimco Realty Corp Common,Real Estate,NYSE
+KKR,KKR & Co Inc Common,Financials,NYSE
+KLAC,KLA Corp Common,Information Technology,Nasdaq
+KMB,Kimberly-Clark Corp Common,Consumer Staples,Nasdaq
+KMI,Kinder Morgan Inc Class P Common,Energy,NYSE
+KO,Coca-Cola Co Common,Consumer Staples,NYSE
+KR,Kroger Co Common,Consumer Staples,NYSE
+KVUE,Kenvue Inc Common,Consumer Staples,NYSE
+L,Loews Corp Common,Financials,NYSE
+LDOS,Leidos Holdings Inc Common,Industrials,NYSE
+LEN,Lennar Corporation Class A Common,Consumer Discretionary,NYSE
+LH,Labcorp Holdings Inc Common,Health Care,NYSE
+LHX,L3Harris Technologies Inc Common,Industrials,NYSE
+LII,Lennox International Inc Common,Industrials,NYSE
+LIN,Linde plc Common,Materials,Nasdaq
+LLY,Eli Lilly and Co Common,Health Care,NYSE
+LMT,Lockheed Martin Corp Common,Industrials,NYSE
+LNT,Alliant Energy Corp Common,Utilities,Nasdaq
+LOW,Lowe's Companies Inc Common,Consumer Discretionary,NYSE
+LRCX,Lam Research Corp Common,Information Technology,Nasdaq
+LULU,lululemon athletica inc. Common,Consumer Discretionary,Nasdaq
+LUV,Southwest Airlines Co Common,Industrials,NYSE
+LVS,Las Vegas Sands Corp Common,Consumer Discretionary,NYSE
+LW,Lamb Weston Holdings Inc Common,Consumer Staples,NYSE
+LYB,LyondellBasell Industries NV Common,Materials,NYSE
+LYV,Live Nation Entertainment Inc Common,Communication Services,NYSE
+MA,Mastercard Inc Class A Common,Financials,NYSE
+MAA,Mid-America Apartment Communities Inc Common,Real Estate,NYSE
+MAR,Marriott International Inc Class A Common,Consumer Discretionary,Nasdaq
+MAS,Masco Corp Common,Industrials,NYSE
+MCD,McDonald's Corp Common,Consumer Discretionary,NYSE
+MCHP,Microchip Technology Inc Common,Information Technology,Nasdaq
+MCK,McKesson Corp Common,Health Care,NYSE
+MCO,Moody's Corp Common,Financials,NYSE
+MDLZ,Mondelez International Inc Class A Common,Consumer Staples,Nasdaq
+MDT,Medtronic Plc Common,Health Care,NYSE
+MET,MetLife Inc Common,Financials,NYSE
+META,Meta Platforms Inc Class A Common,Communication Services,Nasdaq
+MGM,MGM Resorts International Common,Consumer Discretionary,NYSE
+MKC,McCormick & Company Inc Common,Consumer Staples,NYSE
+MLM,Martin Marietta Materials Inc Common,Materials,NYSE
+MMM,3M Co Common,Industrials,NYSE
+MNST,Monster Beverage Corp Common,Consumer Staples,Nasdaq
+MO,Altria Group Inc Common,Consumer Staples,NYSE
+MOH,Molina Healthcare Inc Common,Health Care,NYSE
+MOS,Mosaic Co Common,Materials,NYSE
+MPC,Marathon Petroleum Corp Common,Energy,NYSE
+MPWR,Monolithic Power Systems Inc Common,Information Technology,Nasdaq
+MRK,Merck & Co Inc Common,Health Care,NYSE
+MRNA,Moderna Inc Common,Health Care,Nasdaq
+MRSH,Marsh & McLennan Companies Inc Common,Financials,NYSE
+MS,Morgan Stanley Common,Financials,NYSE
+MSCI,MSCI Inc Class A Common,Financials,NYSE
+MSFT,Microsoft Corp Common,Information Technology,Nasdaq
+MSI,Motorola Solutions Inc Common,Information Technology,NYSE
+MTB,M&T Bank Corp Common,Financials,NYSE
+MTCH,Match Group Inc Common,Communication Services,Nasdaq
+MTD,Mettler-Toledo International Inc Common,Health Care,NYSE
+MU,Micron Technology Inc Common,Information Technology,Nasdaq
+NCLH,Norwegian Cruise Line Holdings Ltd Common,Consumer Discretionary,NYSE
+NDAQ,Nasdaq Inc Common,Financials,Nasdaq
+NDSN,Nordson Corp Common,Industrials,Nasdaq
+NEE,NextEra Energy Inc Common,Utilities,NYSE
+NEM,Newmont Corp Common,Materials,NYSE
+NFLX,Netflix Inc Common,Communication Services,Nasdaq
+NI,NiSource Inc Common,Utilities,NYSE
+NKE,NIKE Inc Class B Common,Consumer Discretionary,NYSE
+NOC,Northrop Grumman Corp Common,Industrials,NYSE
+NOW,ServiceNow Inc Common,Information Technology,NYSE
+NRG,NRG Energy Inc Common,Utilities,NYSE
+NSC,Norfolk Southern Corp Common,Industrials,NYSE
+NTAP,NetApp Inc Common,Information Technology,Nasdaq
+NTRS,Northern Trust Corp Common,Financials,Nasdaq
+NUE,Nucor Corp Common,Materials,NYSE
+NVDA,NVIDIA Corp Common,Information Technology,Nasdaq
+NVR,NVR Inc Common,Consumer Discretionary,NYSE
+NWS,News Corporation Class B Common,Communication Services,Nasdaq
+NWSA,News Corporation Class A Common,Communication Services,Nasdaq
+NXPI,NXP Semiconductors NV Common,Information Technology,Nasdaq
+O,Realty Income Corp Common,Real Estate,NYSE
+ODFL,Old Dominion Freight Line Inc Common,Industrials,Nasdaq
+OKE,ONEOK Inc Common,Energy,NYSE
+OMC,Omnicom Group Inc Common,Communication Services,NYSE
+ON,ON Semiconductor Corp Common,Information Technology,Nasdaq
+ORCL,Oracle Corp Common,Information Technology,NYSE
+ORLY,O'Reilly Automotive Inc Common,Consumer Discretionary,Nasdaq
+OTIS,Otis Worldwide Corp Common,Industrials,NYSE
+OXY,Occidental Petroleum Corp Common,Energy,NYSE
+PANW,Palo Alto Networks Inc Common,Information Technology,Nasdaq
+PAYC,Paycom Software Inc Common,Industrials,NYSE
+PAYX,Paychex Inc Common,Industrials,Nasdaq
+PCAR,PACCAR Inc Common,Industrials,Nasdaq
+PCG,PG&E Corp Common,Utilities,NYSE
+PEG,Public Service Enterprise Group Inc Common,Utilities,NYSE
+PEP,PepsiCo Inc Common,Consumer Staples,Nasdaq
+PFE,Pfizer Inc Common,Health Care,NYSE
+PFG,Principal Financial Group Inc Common,Financials,Nasdaq
+PG,Procter & Gamble Co Common,Consumer Staples,NYSE
+PGR,Progressive Corp Common,Financials,NYSE
+PH,Parker-Hannifin Corp Common,Industrials,NYSE
+PHM,PulteGroup Inc Common,Consumer Discretionary,NYSE
+PKG,Packaging Corporation of America Common,Materials,NYSE
+PLD,Prologis Inc Common,Real Estate,NYSE
+PLTR,Palantir Technologies Inc Class A Common,Information Technology,Nasdaq
+PM,Philip Morris International Inc Common,Consumer Staples,NYSE
+PNC,PNC Financial Services Group Inc Common,Financials,NYSE
+PNR,Pentair plc Common,Industrials,NYSE
+PNW,Pinnacle West Capital Corp Common,Utilities,NYSE
+PODD,Insulet Corp Common,Health Care,Nasdaq
+POOL,Pool Corp Common,Consumer Discretionary,Nasdaq
+PPG,PPG Industries Inc Common,Materials,NYSE
+PPL,PPL Corp Common,Utilities,NYSE
+PRU,Prudential Financial Inc Common,Financials,NYSE
+PSA,Public Storage Common,Real Estate,NYSE
+PSKY,Paramount Skydance Corporation Class B Common,Communication Services,Nasdaq
+PSX,Phillips 66 Common,Energy,NYSE
+PTC,PTC Inc Common,Information Technology,Nasdaq
+PWR,Quanta Services Inc Common,Industrials,NYSE
+PYPL,PayPal Holdings Inc Common,Financials,Nasdaq
+Q,Qnity Electronics Inc Common,Unknown,NYSE
+QCOM,QUALCOMM Inc Common,Information Technology,Nasdaq
+RCL,Royal Caribbean Group Common,Consumer Discretionary,NYSE
+REG,Regency Centers Corp Common,Real Estate,Nasdaq
+REGN,Regeneron Pharmaceuticals Inc Common,Health Care,Nasdaq
+RF,Regions Financial Corp Common,Financials,NYSE
+RJF,Raymond James Financial Inc Common,Financials,NYSE
+RL,Ralph Lauren Corporation Class A Common,Consumer Discretionary,NYSE
+RMD,ResMed Inc Common,Health Care,NYSE
+ROK,Rockwell Automation Inc Common,Industrials,NYSE
+ROL,Rollins Inc Common,Industrials,NYSE
+ROP,Roper Technologies Inc Common,Information Technology,Nasdaq
+ROST,Ross Stores Inc Common,Consumer Discretionary,Nasdaq
+RSG,Republic Services Inc Common,Industrials,NYSE
+RTX,RTX Corp Common,Industrials,NYSE
+RVTY,Revvity Inc Common,Health Care,NYSE
+SBAC,SBA Communications Corp Class A Common,Real Estate,Nasdaq
+SBUX,Starbucks Corp Common,Consumer Discretionary,Nasdaq
+SCHW,Charles Schwab Corp Common,Financials,NYSE
+SHW,Sherwin-Williams Co Common,Materials,NYSE
+SJM,J.M. Smucker Co Common,Consumer Staples,NYSE
+SLB,SLB Ltd Common,Energy,NYSE
+SMCI,Super Micro Computer Inc Common,Information Technology,Nasdaq
+SNA,Snap-on Inc Common,Industrials,NYSE
+SNDK,Sandisk Corp Common,Information Technology,Nasdaq
+SNPS,Synopsys Inc Common,Information Technology,Nasdaq
+SO,Southern Co Common,Utilities,NYSE
+SOLV,Solventum Corp Common,Health Care,NYSE
+SPG,Simon Property Group Inc Common,Real Estate,NYSE
+SPGI,S&P Global Inc Common,Financials,NYSE
+SRE,Sempra Common,Utilities,NYSE
+STE,STERIS plc Common,Health Care,NYSE
+STLD,Steel Dynamics Inc Common,Materials,Nasdaq
+STT,State Street Corp Common,Financials,NYSE
+STX,Seagate Technology Holdings PLC Common,Information Technology,Nasdaq
+STZ,Constellation Brands Inc Class A Common,Consumer Staples,NYSE
+SW,Smurfit Westrock PLC Common,Materials,NYSE
+SWK,Stanley Black & Decker Inc Common,Industrials,NYSE
+SWKS,Skyworks Solutions Inc Common,Information Technology,Nasdaq
+SYF,Synchrony Financial Common,Financials,NYSE
+SYK,Stryker Corp Common,Health Care,NYSE
+SYY,Sysco Corp Common,Consumer Staples,NYSE
+T,AT&T Inc Common,Communication Services,NYSE
+TAP,Molson Coors Beverage Company Class B Common,Consumer Staples,NYSE
+TDG,TransDigm Group Inc Common,Industrials,NYSE
+TDY,Teledyne Technologies Inc Common,Information Technology,NYSE
+TECH,Bio-Techne Corp Common,Health Care,Nasdaq
+TEL,TE Connectivity plc Common,Information Technology,NYSE
+TER,Teradyne Inc Common,Information Technology,Nasdaq
+TFC,Truist Financial Corp Common,Financials,NYSE
+TGT,Target Corp Common,Consumer Staples,NYSE
+TJX,TJX Companies Inc Common,Consumer Discretionary,NYSE
+TKO,TKO Group Holdings Inc Class A Common,Communication Services,NYSE
+TMO,Thermo Fisher Scientific Inc Common,Health Care,NYSE
+TMUS,T-Mobile US Inc Common,Communication Services,Nasdaq
+TPL,Texas Pacific Land Corp Common,Energy,NYSE
+TPR,Tapestry Inc Common,Consumer Discretionary,NYSE
+TRGP,Targa Resources Corp Common,Energy,NYSE
+TRMB,Trimble Inc Common,Information Technology,Nasdaq
+TROW,T. Rowe Price Group Inc Common,Financials,Nasdaq
+TRV,Travelers Companies Inc Common,Financials,NYSE
+TSCO,Tractor Supply Co Common,Consumer Discretionary,Nasdaq
+TSLA,Tesla Inc Common,Consumer Discretionary,Nasdaq
+TSN,Tyson Foods Inc Class A Common,Consumer Staples,NYSE
+TT,Trane Technologies plc Common,Industrials,NYSE
+TTD,Trade Desk Inc Class A Common,Communication Services,Nasdaq
+TTWO,Take-Two Interactive Software Inc Common,Communication Services,Nasdaq
+TXN,Texas Instruments Inc Common,Information Technology,Nasdaq
+TXT,Textron Inc Common,Industrials,NYSE
+TYL,Tyler Technologies Inc Common,Information Technology,NYSE
+UAL,United Airlines Holdings Inc Common,Industrials,Nasdaq
+UBER,Uber Technologies Inc Common,Industrials,NYSE
+UDR,UDR Inc Common,Real Estate,NYSE
+UHS,Universal Health Services Inc Class B Common,Health Care,NYSE
+ULTA,Ulta Beauty Inc Common,Consumer Discretionary,Nasdaq
+UNH,UnitedHealth Group Inc Common,Health Care,NYSE
+UNP,Union Pacific Corp Common,Industrials,NYSE
+UPS,United Parcel Service Inc Class B Common,Industrials,NYSE
+URI,United Rentals Inc Common,Industrials,NYSE
+USB,US Bancorp Common,Financials,NYSE
+V,Visa Inc Class A Common,Financials,NYSE
+VICI,VICI Properties Inc Common,Real Estate,NYSE
+VLO,Valero Energy Corp Common,Energy,NYSE
+VLTO,Veralto Corp Common,Industrials,NYSE
+VMC,Vulcan Materials Co Common,Materials,NYSE
+VRSK,Verisk Analytics Inc Common,Industrials,Nasdaq
+VRSN,VeriSign Inc Common,Information Technology,Nasdaq
+VRTX,Vertex Pharmaceuticals Inc Common,Health Care,Nasdaq
+VST,Vistra Corp Common,Utilities,NYSE
+VTR,Ventas Inc Common,Real Estate,NYSE
+VTRS,Viatris Inc Common,Health Care,Nasdaq
+VZ,Verizon Communications Inc Common,Communication Services,NYSE
+WAB,Westinghouse Air Brake Technologies Corp Common,Industrials,NYSE
+WAT,Waters Corp Common,Health Care,NYSE
+WBD,Warner Bros. Discovery Inc Series A Common,Communication Services,Nasdaq
+WDAY,Workday Inc Class A Common,Information Technology,Nasdaq
+WDC,Western Digital Corp Common,Information Technology,Nasdaq
+WEC,WEC Energy Group Inc Common,Utilities,NYSE
+WELL,Welltower Inc Common,Real Estate,NYSE
+WFC,Wells Fargo & Co Common,Financials,NYSE
+WM,Waste Management Inc Common,Industrials,NYSE
+WMB,Williams Companies Inc Common,Energy,NYSE
+WMT,Walmart Inc Common,Consumer Staples,Nasdaq
+WRB,W. R. Berkley Corp Common,Financials,NYSE
+WSM,Williams-Sonoma Inc Common,Consumer Discretionary,NYSE
+WST,West Pharmaceutical Services Inc Common,Health Care,NYSE
+WTW,Willis Towers Watson Public Ltd Co Common,Financials,Nasdaq
+WY,Weyerhaeuser Co Common,Real Estate,NYSE
+WYNN,Wynn Resorts Ltd Common,Consumer Discretionary,Nasdaq
+XEL,Xcel Energy Inc Common,Utilities,Nasdaq
+XOM,Exxon Mobil Corp Common,Energy,NYSE
+XYL,Xylem Inc Common,Industrials,NYSE
+XYZ,Block Inc Class A Common,Financials,NYSE
+YUM,Yum! Brands Inc Common,Consumer Discretionary,NYSE
+ZBH,Zimmer Biomet Holdings Inc Common,Health Care,NYSE
+ZBRA,Zebra Technologies Corporation Class A Common,Information Technology,Nasdaq
+ZTS,Zoetis Inc Class A Common,Health Care,NYSE

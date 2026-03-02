@@ -1,0 +1,35 @@
+# =============================================================================
+# OSF PREREGISTRATION DISCLOSURE: LOCAL DATA LAKE INSTANTIATION
+# =============================================================================
+# Protocol Reference: 
+#   - Section 4.1 (Disclosure of Engineering Proof-of-Concept)
+#   - Section 4.5 (Computational Reproducibility)
+#
+# 1. PROTOCOL ALIGNMENT (Offline Reproducibility):
+# To satisfy the computational reproducibility mandate of Section 4.5 without 
+# requiring reviewers to provision paid AWS S3 infrastructure, this override 
+# injects an ephemeral MinIO object storage container into the Airflow stack. 
+# 
+# 2. ENGINEERING ARTIFACT (Storage Emulation):
+# This service acts as the `twin-lake-raw` data lake for the PoC environment. 
+# It perfectly emulates the S3 API, allowing the downstream Polars and DuckDB 
+# out-of-core engines to execute their lazy-scanning and vectorized SQL queries 
+# exactly as they would in the production 2019-2025 Validation Cohort run.
+# =============================================================================
+
+services:
+  minio:
+    image: minio/minio
+    container_name: minio
+    ports:
+      - "9000:9000"
+      - "9001:9001"
+    environment:
+      MINIO_ROOT_USER: ${MINIO_ROOT_USER:-admin}
+      MINIO_ROOT_PASSWORD: ${MINIO_ROOT_PASSWORD:-password123}
+    command: server /data --console-address ":9001"
+    volumes:
+      - minio_data:/data
+
+volumes:
+  minio_data:
